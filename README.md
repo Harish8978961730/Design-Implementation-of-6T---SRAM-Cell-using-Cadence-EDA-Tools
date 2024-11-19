@@ -3,7 +3,7 @@ Ex No: 01     Design & Implementation of 6T SRAM using Cadence EDA Tools
 
 Aim:
 To design and implement a 6T SRAM (Static Random-Access Memory) cell using Cadence EDA tools, simulate its functionality, and analyze key performance parameters such as read/write operations, power consumption, and stability to understand its behavior in memory design.
-
+ 
 Tools Required:
 •	Personal Computer
 •	Cadence Virtuoso Software
